@@ -62,7 +62,7 @@ a {
   vertical-align: middle;
   width: 2.5em;
 }
-.social-link a:hover{
+.social-link:hover{
   background: blue;
   opacity: 0.5;
 }
