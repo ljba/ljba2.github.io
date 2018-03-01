@@ -13,6 +13,14 @@ a {
   color: #f00;
 }
 
+/* HEADER STYLES */
+.header-nav {
+  float: right;
+}
+.header-nav > li {
+  display: inline-block;
+}
+
 /* HERO STYLES */
 .full-hero {
   background-color: #c7dbfc;
@@ -56,7 +64,7 @@ a {
 }
 .bio-box {
   border: 1px solid black;
-  border-color: black black red;
+  border-color: black black black;
   box-sizing: border-box;
   float: left;
   font-size: 1rem;
