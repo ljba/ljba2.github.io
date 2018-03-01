@@ -63,7 +63,7 @@ a {
   width: 2.5em;
 }
 .social-link a:hover{
-  background-color: blue;
+  background: blue;
   opacity: 0.5;
 }
 .social-list {
