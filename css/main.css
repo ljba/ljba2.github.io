@@ -29,6 +29,14 @@ a {
   text-decoration: none;
   text-transform: uppercase;
 }
+.header-nav a:hover,
+.header-nav a:active {
+  color: #ed6e2f;
+}
+.header-logo:hover,
+.header-logo:active {
+  opacity: 0.5;
+}
 
 /* HERO STYLES */
 .full-hero {
@@ -53,6 +61,10 @@ a {
   text-decoration: none;
   vertical-align: middle;
   width: 2.5em;
+}
+.social-link a:hover{
+  background-color: blue;
+  opacity: 0.5;
 }
 .social-list {
   list-style: none;
